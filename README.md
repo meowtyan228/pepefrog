@@ -7,15 +7,15 @@
       <table width="600"height="600"cellpadding="5" cellspacing="10" border="0">
       <tr>
         <td colspan="3"height="30"bgcolor="#ffe4e1">
-          <img src="888.png"widht="200" height="60" align="left">
-          <img src="909.png"widht="200" height="60"align="right">
-      <center><img src="505.png"widht="200" height="60">
+          <img src="888.png"width="200" height="60" align="left">
+          <img src="909.png"width="200" height="60"align="right">
+      <center><img src="505.png"width="200" height="60">
       </center>
         </td>
       </tr>
       <tr>
          <td height="30"width="33%" bgcolor="#ffc0cb"><center><font face="comic sans ms">
-            <a href="index13.html">
+            <a href="index.html">
             <a href="https://ru.wikipedia.org/wiki/Лягушонок_Пепе">✩О Пепе✩</a></td>
          <td width="33%" bgcolor="#ffc0cb"><center><font face="comic sans ms">
             <a href="index7.html">✩Здесь его фотки✩</center>
