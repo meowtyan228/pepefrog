@@ -1,5 +1,4 @@
-# pepefrog
-<html>
+# <html>
   <head>
      <title>Моя первая страничка с фото</title>
   </head>
