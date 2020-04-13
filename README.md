@@ -7,10 +7,9 @@
       <table width="600"height="600"cellpadding="5" cellspacing="10" border="0">
       <tr>
         <td colspan="3"height="30"bgcolor="#ffe4e1">
-          <img src="888.png"width="200" height="60" align="left">
-          <img src="909.png"width="200" height="60"align="right">
-      <center><img src="505.png"width="200" height="60">
-      </center>
+          <img src="888.png" height="60" align="left">
+          <img src="909.png" height="60"align="right">
+      <center><img src="505.png" height="60"></center>
         </td>
       </tr>
       <tr>
