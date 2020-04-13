@@ -1,6 +1,4 @@
-# <html>
-  <head>
-     <title>Моя первая страничка с фото</title>
+# Моя первая страничка с фото
   </head>
    <body text="#bc8f8f" bgcolor="#ffffff" background="4444.jpg" link="#bc8f8f" alink="#bc8f8f" vlink="#bc8f8f">
      <center>
